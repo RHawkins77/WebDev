@@ -1,0 +1,220 @@
+
+header{
+	
+}
+
+
+#gallery{
+	overflow:scroll;
+
+}
+
+#navigation{
+	 text-align:center;
+	 width:100%;
+	 margin-top:50px;
+	color:black;
+
+}
+
+#currentpage{
+	background-color:green;
+}
+
+ 
+
+body{
+	float:middle;
+}
+
+
+table{
+	border-collapse: collapse;
+	
+}
+
+body{
+	background-color:#c48c58;
+}
+
+#LogoPhoto{
+	float:left;
+	height:10%;
+	width:10%;
+	display:block;
+	margin:0 auto;
+}
+
+#logoNameBar{
+	padding:2%;
+	margin:2%;
+}
+
+logoAndNameBorder {
+	overflow:  hidden;
+}
+
+
+#userOptions{
+	float:right;
+}
+
+#mainHeader{
+	margin-bottom:0;
+	padding-top:2.3%;
+}
+h2{
+		font-size:45px;
+	right:0;
+	left:0;
+	text-align:center;
+	text-decoration:underline;
+}
+h1{
+
+	display:block;
+	border:5%;
+	
+	padding:  0.25%;
+}
+
+
+li{
+	display:inline;
+}
+
+
+#aboutJackieHeader{
+	text-align:center;
+}
+
+#logininputs{
+	overflow:auto;
+   margin: auto;
+    width: 200px;'
+	height:200px;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+#Jackie {
+	max-height:200;
+	max-width:200;
+	border-radius:50%;
+	float:left;
+
+}
+
+
+#aboutgrandma{
+	margin:auto;
+	padding:auto;
+}
+
+#userOptions{
+clear:left;
+}
+
+
+
+#accountCreatorHandler {
+	font-size:30px;
+	display:block;
+	border: 5px solid black;
+	margin:auto;
+	padding:auto;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	text-align:center;
+    max-width: 50%;
+}
+
+#aboutSectionContainer {
+	font-family: 'Dancing Script', cursive;
+	font-size:30px;
+	display:block;
+	border: 5px solid black;
+	margin:auto;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	text-align:center;
+    max-width: 95%;
+}
+
+#userOptions {
+	padding-right:20px;
+
+}
+
+#userOptions:visited{
+	color:green;
+}
+
+ 
+#errors{
+	margin:15px;
+padding:5px;
+	display:block;
+	text-align:center;
+	background-color:red;
+	height:60px;	
+}
+
+#prod {
+	margin:15px;
+padding:5px;
+	display:block;
+	text-align:center;
+}
+
+#prod.img{
+	margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+	overflow:scroll;
+}
+
+#passwordError {
+	font:25px;
+}
+
+#welcome{
+	right:0;
+	left:0;
+	text-align:center;
+	margin:5%;
+	padding:7%;
+
+}
+
+#logmein{
+	font-size:30px; 
+	display:block;
+	border: 5px solid black;
+	margin:auto;
+	padding:auto;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	text-align:center;
+    max-width: 50%;
+}
+
+
+
+
+
+#footText{
+	clear:left;
+	margin-top:2%;
+	font-size:20px;
+	bottom:0;
+    height: 5%;
+	width:99%;
+	text-align:center;
+
+}
